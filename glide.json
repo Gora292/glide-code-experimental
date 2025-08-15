@@ -1,0 +1,15 @@
+{
+  "name": "URL vers Base64",
+  "description": "Convertit une image depuis une URL en sa représentation Base64.",
+  "author": "Votre Nom",
+  "params": [
+    {
+      "name": "imageUrl",
+      "displayName": "URL de l'image",
+      "type": "string"
+    }
+  ],
+  "result": {
+    "type": "string"
+  }
+}
