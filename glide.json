@@ -1,7 +1,7 @@
 {
   "name": "URL vers Base64",
-  "description": "Convertit une image depuis une URL en sa représentation Base64.",
-  "author": "Votre Nom",
+  "description": "Convertit l'URL d'une image en Base64.",
+  "author": "Gora292",
   "params": [
     {
       "name": "imageUrl",
